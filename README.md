@@ -1,6 +1,6 @@
 # qrreaderapp
 
-A new Flutter project.
+Aplicación móvil lector QR con Flutter
 
 ## Getting Started
 
